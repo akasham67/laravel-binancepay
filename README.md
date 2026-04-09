@@ -12,7 +12,7 @@
 ## Installation
 
 ```bash
-composer require codeglen/laravel-binancepay
+composer require codeglen/laravel-binancepay:dev-main
 ```
 
 Publish config:
