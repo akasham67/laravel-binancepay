@@ -2,6 +2,13 @@
 
 `codeglen/laravel-binancepay` is a Laravel package for Binance Pay order creation, order query, and webhook signature verification.
 
+## Compatibility
+
+- Laravel 10
+- Laravel 11
+- Laravel 12
+- Laravel 13
+
 ## Installation
 
 ```bash
